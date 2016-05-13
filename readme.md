@@ -44,7 +44,7 @@ Type: `function`
 
 These are similar, but are less performant due to lack of closure science.
 
-- [jif](https://github.com/contrahacks/jif)
+- [jif](https://github.com/contra/jif)
 - [value-when](https://github.com/bendrucker/value-when)
 
 ## License
