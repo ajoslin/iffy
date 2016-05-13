@@ -1,0 +1,30 @@
+{
+  "name": "iffy",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Ternary in a function, but performant through closure science",
+  "license": "MIT",
+  "repository": "ajoslin/iffy",
+  "author": {
+    "name": "Andrew Joslin",
+    "email": "andrewtjoslin@gmail.com",
+    "url": "ajoslin.com"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "ternary",
+    "when",
+    "jif",
+    "closure",
+    "performance"
+  ],
+  "devDependencies": {
+    "tape": "^4.0.0",
+    "standard": "^6.0.0"
+  },
+  "files": [
+    "index.js"
+  ]
+}
